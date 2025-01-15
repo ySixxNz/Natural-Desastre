@@ -15,7 +15,7 @@
   "LinkCopied": "Ссылка скопирована в буфер обмена",
   "SixHubClosed": "Six Hub закрыт. Спасибо за использование моего скрипта. / By ySixx",
   "WindowName": "Six Hub | Природные катастрофы️",
-  "WindowIntroText": "Добро пожаловать в Six Hub, {playerName}",
+  "WindowIntroText": "Добро пожаловать в Six Hub, ",
   "TrollSectionName": "Тролль",
   "NoticeTitle": "Предупреждение",
   "NoticeText": "Если вы хотите использовать функции fling и т. д., включите переключатель \"Не получать урон от падения\", так как он защитит вас от получения урона.",
