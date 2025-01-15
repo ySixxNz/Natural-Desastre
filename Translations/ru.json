@@ -1,1 +1,16 @@
-
+{
+  "Home": "Дом",
+  "Main": "Главная",
+  "MapVisual": "Карта/Визуализация",
+  "Teleports": "Телепорты",
+  "Humanoid": "Гуманоид",
+  "Others": "Другие",
+  "Credits": "Кредиты",
+  "Welcome": "Добро пожаловать в Six Hub!",
+  "Explore": "Изучите функции на вкладках выше.",
+  "Notice": "Уведомление",
+  "FunctionNotice": "Если функция перестанет работать, сообщите мне в discord: ysixx",
+  "MyDiscordServer": "Мой сервер в discord",
+  "LinkToServer": "Ссылка на сервер",
+  "LinkCopied": "Ссылка скопирована в буфер обмена"
+}
