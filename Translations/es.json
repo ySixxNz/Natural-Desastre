@@ -1,1 +1,16 @@
-
+{
+  "Home": "Inicio",
+  "Main": "Principal",
+  "MapVisual": "Mapa/Visual",
+  "Teleports": "Teletransportes",
+  "Humanoid": "Humanoide",
+  "Others": "Otros",
+  "Credits": "Créditos",
+  "Welcome": "¡Bienvenido a Six Hub!",
+  "Explore": "Explora las características en las pestañas de arriba.",
+  "Notice": "Aviso",
+  "FunctionNotice": "Si alguna función deja de funcionar, notifícame en discord: ysixx",
+  "MyDiscordServer": "Mi servidor de discord",
+  "LinkToServer": "Enlace al servidor",
+  "LinkCopied": "Enlace copiado al portapapeles"
+}
